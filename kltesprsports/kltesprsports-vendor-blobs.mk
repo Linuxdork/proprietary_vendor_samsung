@@ -53,4 +53,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kltesprsports/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/kltesprsports/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/kltesprsports/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
-    vendor/samsung/kltesprsports/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so
+    vendor/samsung/kltesprsports/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
+    vendor/samsung/kltesprsports/proprietary/lib/hw/nfc_nci.MSM8974.so:system/lib/hw/nfc_nci.MSM8974.so
